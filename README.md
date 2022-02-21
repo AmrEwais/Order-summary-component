@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Order summary component](https://amrewais.github.io/Order-summary-component/)
 
 ## My process
 
@@ -48,9 +48,7 @@ ONLY
 ### What I learned
 
 learn to use hover and these two properties transform: & transition:
-```html
-<h1>i used this properties in</h1>
-```
+
 ```css
 button{
     transition: 0.5s;
