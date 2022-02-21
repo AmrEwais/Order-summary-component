@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution on frontend mentor](https://www.frontendmentor.io/solutions/ordersummarycomponent-using-htmlandcss-IfrZD04Sy)
 - Live Site URL: [Order summary component](https://amrewais.github.io/Order-summary-component/)
 
 ## My process
